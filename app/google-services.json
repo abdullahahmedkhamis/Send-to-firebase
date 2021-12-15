@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "606860980303",
-    "firebase_url": "https://createandsignin-ca560.firebaseio.com",
-    "project_id": "createandsignin-ca560",
-    "storage_bucket": "createandsignin-ca560.appspot.com"
+    "project_number": "31961287016",
+    "firebase_url": "https://createandsignin-52f1f.firebaseio.com",
+    "project_id": "createandsignin-52f1f",
+    "storage_bucket": "createandsignin-52f1f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:606860980303:android:f324fa9c04b04365567a3a",
+        "mobilesdk_app_id": "1:31961287016:android:fb4a107a22dbb07bc2aedd",
         "android_client_info": {
           "package_name": "com.example.createandsignin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "606860980303-1vcbieisosfmqugudbiit9j8cpfjjr5n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.createandsignin",
-            "certificate_hash": "ab23cff39957dfaa13c8be3265e39052176ae9fa"
-          }
-        },
-        {
-          "client_id": "606860980303-a30ct5r9pjuehc3bd2ubc20ogc48e08i.apps.googleusercontent.com",
+          "client_id": "31961287016-b0og006i4uohf06cvn2edqunbc2r28gk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAEecTK35D8j-S5burbc-IzAihKbYFWhCQ"
+          "current_key": "AIzaSyA6xU_nxjBQUDnAwR1ln912uriKr5IN7s4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "606860980303-a30ct5r9pjuehc3bd2ubc20ogc48e08i.apps.googleusercontent.com",
+              "client_id": "31961287016-b0og006i4uohf06cvn2edqunbc2r28gk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
